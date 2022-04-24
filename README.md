@@ -30,3 +30,4 @@ Finally, creating a similar model for other types of cancers may further the acc
 **Mentor:** Naquan Ishman 
 
 ## License
+[Apache License 2.0](LICENSE.md)
