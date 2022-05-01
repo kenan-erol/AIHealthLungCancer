@@ -26,7 +26,9 @@ Finally, creating a similar model for other types of cancers may further the acc
 
 ## Credits
 **Leaders**: Julianna Gallup & Adithi Vardhan
+
 **Members:** Kenan Erol, Anu Nair, Helen Liu, Tasnim Taifa, Iris Xue
+
 **Mentor:** Naquan Ishman 
 
 ## License
